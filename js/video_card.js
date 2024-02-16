@@ -29,7 +29,7 @@ const {
 } = video;
 
 const /** {Object} */ sdVideo = video_files.find(item => item.quality === "sd" && item.width < 1000);
-console.log(sdVideo); 
+// console.log(sdVideo); 
 
 const {file_type , link} = sdVideo;
 

@@ -20,12 +20,14 @@ const /**{object} */ requestOptions = {headers};
  * @param {function} sucessCallback  success callback function
  */
 
-const fetchData = async function(url, sucessCallback){
-    const/**{Object} */ response = await fetch(url, requestOptions);
 
-    if(response.ok){
+const fetchData = async function(url, successCallback ){
+
+        const/**{Object} */ response = await fetch(url, requestOptions);
+
+        if(response.ok){
         const /**{object } */ data = await response.json();
-        sucessCallback(data);
+        successCallback(data);
     }
 }
 
