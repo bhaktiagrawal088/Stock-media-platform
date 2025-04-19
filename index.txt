@@ -1,5 +1,5 @@
 
-ImageGen – Image Generating App
+MediaGen - Media Generating Website
 
 
 
@@ -57,7 +57,7 @@ aria-label = Switch theme
 aria-label = Close menu
 
 <span class="material-symbols-outlined" aria-hidden="true">arrow_back</span>
-ImageGen – Image Generating App
+MediaGen - Media Generating Website
 
 
 <span class="material-symbols-outlined leading-icon" aria-hidden="true">home</span>
@@ -171,7 +171,7 @@ More collections
 #---------- FOOTER ----------#
 
 
-ImageGen – Image Generating App is a stock photo app developed by codewithsadee and all Photos and Videos provided by Pexels.
+MediaGen - Media Generating Website is a stock photo app developed by codewithsadee and all Photos and Videos provided by Pexels.
 
 Follow us on
 
@@ -188,7 +188,7 @@ Twitter
 
 #---------- ALL PHOTO PAGE ----------#
 
-Curated photos - ImageGen – Image Generating App
+Curated photos - MediaGen - Media Generating Website
 
 
 Curated photos
@@ -217,7 +217,7 @@ Color
 
 #---------- PHOTO DETAIL PAGE ----------#
 
-Photo detail - ImageGen – Image Generating App
+Photo detail - MediaGen - Media Generating Website
 
 aria-label = Back to previous page
 <span class="material-symbols-outlined" aria-hidden="true">arrow_back</span>
@@ -243,7 +243,7 @@ More like this
 
 #---------- POPULAR VIDEO PAGE ----------#
 
-Popular videos - ImageGen – Image Generating App
+Popular videos - MediaGen - Media Generating Website
 
 Popular videos
 
@@ -251,7 +251,7 @@ Popular videos
 
 #---------- POPULAR COLLECTION PAGE ----------#
 
-Featured collections - ImageGen – Image Generating App
+Featured collections - MediaGen - Media Generating Website
 
 Featured collections
 
@@ -259,4 +259,4 @@ Featured collections
 
 #---------- FAVORITE PAGE ----------#
 
-Favorites - ImageGen – Image Generating App
+Favorites - MediaGen - Media Generating Website
